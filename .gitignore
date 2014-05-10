@@ -1,0 +1,7 @@
+# build directory
+build/*
+
+# generic files to ignore
+*~
+*.swp
+*.out
